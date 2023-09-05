@@ -95,11 +95,11 @@ body {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-/*
+
 ::-webkit-scrollbar {
 	display: none;
 }
-*/
+
 
 ::-moz-selection {
     color: #1106CC;
